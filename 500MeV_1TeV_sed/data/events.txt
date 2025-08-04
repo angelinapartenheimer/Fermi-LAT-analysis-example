@@ -1,0 +1,7 @@
+data/PH00.fits
+data/PH01.fits
+data/PH02.fits
+data/PH03.fits
+data/PH04.fits
+data/PH05.fits
+data/PH06.fits
