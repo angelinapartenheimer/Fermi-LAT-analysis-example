@@ -1,2 +1,2 @@
 # Fermi-LAT-analysis-example
-Template scripts to reproduce analysis results in "Sub-Threshold Fermi-LAT Sources in the Vicinity of KM3-230312A"
+Template scripts to reproduce analysis results for J0616.1-042 in "Sub-Threshold Fermi-LAT Sources in the Vicinity of KM3-230312A." The files in the folder 1GeV_1TeV are used to find sources, evaluate test statistics, generate TS Maps, and generate light curves. The files in the folder 500MeV_1TeV are used to evaluate the best-fit energy flux and spectral index, as well as to generate an SED plot. The data to reproduce the results can be downloaded at https://fermi.gsfc.nasa.gov/cgi-bin/ssc/LAT/LATDataQuery.cgi; the data download inputs can be found in the config.yaml files here. 
