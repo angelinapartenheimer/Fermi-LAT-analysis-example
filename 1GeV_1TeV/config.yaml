@@ -35,7 +35,7 @@ model:
   isodiff  : 'iso_P8R3_SOURCE_V3_v1.txt'
   catalogs : 'gll_psc_v35.fit'
   sources  :
-#     - { name: 'KM3-231203A', ra : 94.3, dec : -7.8, SpectrumType : 'PowerLaw', Index : 2.0, Scale : 1000, Prefactor : !!float 1e-12, SpatialModel: 'PointSource' }
+    - { name: 'KM3-231203A', ra : 94.3, dec : -7.8, SpectrumType : 'PowerLaw', Index : 2.0, Scale : 1000, Prefactor : !!float 1e-12, SpatialModel: 'PointSource' }
     - { name: 'J0616.1-0428', ra : 94.02298700997044, dec : -4.479466705002961, SpectrumType : 'PowerLaw', Scale : 1000, Prefactor : !!float 1e-12, SpatialModel: 'PointSource' }
 
 components:
