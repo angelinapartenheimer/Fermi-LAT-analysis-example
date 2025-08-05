@@ -15,7 +15,6 @@ lc = np.load('data/lc.npy', allow_pickle = True).flat[0]
 
 
 t_mjd = (lc['tmax_mjd'] + lc['tmin_mjd'])/2
-#t_mjd = t_mjd
 eflux = lc['eflux']
 eflux_err = lc['eflux_err']
 eflux_ul95 = lc['eflux_ul95']
